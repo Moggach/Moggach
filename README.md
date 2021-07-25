@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi :wave: I'm Anna Cunnane 
+
+
+
+Currently I'm a Metadata Mangaer in book publishing :books: | I'm also a member of the incoming cohort #FAC22 at [Founders and Coders](https://www.foundersandcoders.com/)
+
 
 <!--
 **Moggach/Moggach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
