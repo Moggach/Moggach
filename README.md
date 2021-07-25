@@ -1,7 +1,7 @@
 # Hi 👋 I'm Anna Cunnane
 
 Get in touch 🐦 [Twtter](https://twitter.com/MollyBloom1989) |
-📧 <a href="mailto:name@email.com"> Email</a> |
+📧 <a href="mailto:acunnane13@email.com"> Email</a> |
 🖊️ [Blog](https://www.annacunnane.co.uk/)
 
 Welcome to my profile!
