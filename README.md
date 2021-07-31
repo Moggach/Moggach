@@ -19,7 +19,9 @@ Previously, I was a Metadata Mangaer in book publishing
 
 ✔️ I'm learning Javascript, HTML & CSS, Typescript, RegEX and SQL 🌱
 
-✔️ I'm currently working on a digital agency website. My previous projects include a blog site made with Gatsby and GraphQL and a React site that queries the Google Books API.
+✔️ I'm currently studying on the pre-apprenticeship programme at Founders and Coders. You can see that work [here.](https://github.com/Moggach/pre-apprenticeship)
+
+✔️ My previous projects include a [blog site](https://github.com/Moggach/my-blog-site) made with Gatsby and GraphQL and a [React application](https://github.com/Moggach/book-finder) that queries the Google Books API.
 
 ✔️ Fun fact! I'm a massive bookworm 📖 🐛
 
