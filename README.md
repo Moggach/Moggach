@@ -21,11 +21,24 @@ Previously, I was a Metadata Mangaer in book publishing
 
 ✔️ I'm currently studying on the pre-apprenticeship programme at Founders and Coders. You can see that work [here.](https://github.com/Moggach/pre-apprenticeship)
 
-✔️ My previous projects include a [blog site](https://github.com/Moggach/my-blog-site) made with Gatsby and GraphQL and a [React application](https://github.com/Moggach/book-finder) that queries the Google Books API.
+Projects:
 
-✔️ Fun fact! I'm a massive bookworm 📖 🐛
+⭐ [Change all the bad things - contact form for a social justice group:](https://github.com/Moggach/change-all-the-bad-things)
+
+![ ](changeallthebadthings.gif)
+
+⭐ [A colour generator built in React](https://github.com/Moggach/colouring-in)
+![ ](colouringin.gif)
+
+⭐ [A react app that queries the Google Books API](https://github.com/Moggach/book-finder)
+![ ](Bookfinder.gif)
+
+⭐ [Personal blog built in Gatsby with GraphQl](https://github.com/Moggach/my-blog-site)
+![ ](Blogsite.gif)
 
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
+
+✔️ Fun fact! I'm a massive bookworm 📖 🐛
 
 My latest blog posts
 
