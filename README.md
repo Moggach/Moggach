@@ -21,6 +21,8 @@ Previously, I was a Metadata Mangaer in book publishing
 
 ✔️ I'm currently studying on the pre-apprenticeship programme at Founders and Coders. You can see that work [here.](https://github.com/Moggach/pre-apprenticeship)
 
+✔️ Fun fact! I'm a massive bookworm 📖 🐛
+
 Projects:
 
 ⭐ [Change all the bad things - contact form for a social justice group:](https://github.com/Moggach/change-all-the-bad-things)
@@ -37,8 +39,6 @@ Projects:
 ![ ](Blogsite.gif)
 
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
-
-✔️ Fun fact! I'm a massive bookworm 📖 🐛
 
 My latest blog posts
 
