@@ -9,7 +9,7 @@ Welcome to my profile!
 I'm training to become a software developer
 👩‍💻
 
-![ ](learning.svG)
+![ ](learning.png)
 
 I'm a member of the incoming cohort [#FAC22](https://twitter.com/hashtag/FAC22?src=hashtag_click) at [Founders and Coders](https://www.foundersandcoders.com/)
 💫
