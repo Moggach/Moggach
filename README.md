@@ -9,7 +9,7 @@ Welcome to my profile!
 I'm training to become a software developer
 👩‍💻
 
-![ ](learning.png)
+![ ](learning.svG)
 
 I'm a member of the incoming cohort [#FAC22](https://twitter.com/hashtag/FAC22?src=hashtag_click) at [Founders and Coders](https://www.foundersandcoders.com/)
 💫
@@ -25,9 +25,13 @@ Previously, I was a Metadata Mangaer in book publishing
 
 Projects:
 
+⭐ [A prime number generator that outputs a multiplication table:](https://moggach.github.io/primes_test/)
+
+![ ](makeprimes.gif)
+
 ⭐ [Change all the bad things - contact form for a social justice group:](https://github.com/Moggach/change-all-the-bad-things)
 
-![ ](changeallthebadthings.gif)
+![](changeallthebadthings.gif)
 
 ⭐ [A colour generator built in React](https://github.com/Moggach/colouring-in)
 ![ ](colouringin.gif)
