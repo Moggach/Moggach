@@ -29,9 +29,6 @@ Projects:
 
 ![ ](makeprimes.gif)
 
-⭐ [Change all the bad things - contact form for a social justice group:](https://github.com/Moggach/change-all-the-bad-things)
-
-![](changeallthebadthings.gif)
 
 ⭐ [A colour generator built in React](https://github.com/Moggach/colouring-in)
 ![ ](colouringin.gif)
