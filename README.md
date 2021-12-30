@@ -17,7 +17,7 @@ Projects:
 ⭐ [A class booking application for Solent Mind Recovery College (Part of Founders and Coders Tech for Better Project)](https://github.com/Moggach/solent-mind)
 ![ ](SolentMind.gif)
 
-⭐ [Personal blog built in Gatsby with GraphQl](https://github.com/Moggach/my-blog-site)
+⭐ [Personal blog built in Gatsby with GraphQL](https://github.com/Moggach/my-blog-site)
 ![ ](Blogsite.gif)
 
 ⭐ [Site for comedy production company Encouraging Productions](https://github.com/Moggach/encouraging-productions)
