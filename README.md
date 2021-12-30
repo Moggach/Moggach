@@ -8,7 +8,7 @@ Welcome to my profile!
 
 I'm an apprentice software developer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
 
-I was a member of the FAC22 cohort at [Founders and Coders](https://www.foundersandcoders.com/)
+I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
 
 
