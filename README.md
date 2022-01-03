@@ -28,9 +28,10 @@ Projects:
 
 My latest blog posts ✍️
 
+- [Looking Back At Founders & Corders](https://www.annacunnane.co.uk/blog/Looking%20back%20at%20Founders%20and%20Coders) <br/> <sub>2022-01-01</sub>
 - [Four Things I've Learnt So Far At Founders & Corders](https://www.annacunnane.co.uk/blog/Four%20Things%20I've%20Learnt%20at%20FAC) <br/> <sub>2021-10-23</sub>
 - [Attending Co-Tech Conference at SPACE4 ](https://www.annacunnane.co.uk/blog/Attending%20Co-Tech%20conference%20at%20Space4) <br/> <sub>2021-10-09</sub>
 - [My journey to becoming a developer](https://www.annacunnane.co.uk/blog/My%20journey%20to%20become%20a%20developer) <br/> <sub>2021-08-09</sub>
 - [Why you should make a personal website](https://www.annacunnane.co.uk/blog/Why%20should%20you%20make%20a%20personal%20website) <br/> <sub>2021-07-08</sub>
-- [6 Skills to future proof your publishing career](https://www.annacunnane.co.uk/blog/6%20Skills%20to%20Future%20Proof%20your%20Publishing%20Career) <br/> <sub>2021-05-04</sub>
+
 
