@@ -6,7 +6,7 @@ Get in touch 🐦 [Twtter](https://twitter.com/MollyBloom1989) |
 
 Welcome to my profile!
 
-I'm an apprentice software developer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
+I'm an apprentice software engineer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
 
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
