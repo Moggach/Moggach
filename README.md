@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anna Cunnane
 
-Get in touch 🐦 [Twtter](https://twitter.com/MollyBloom1989) |
+Get in touch 🐦 [Twtter](https://twitter.com/AnnaThereseCu) |
 📧 <a href="mailto:acunnane13@email.com"> Email</a> |
 🖊️ [Blog](https://www.annacunnane.co.uk/)
 
@@ -28,13 +28,8 @@ Projects:
 
 My latest blog posts ✍️
 
+- [What is a headless CMS?](https://www.annacunnane.co.uk/blog/What%20is%20a%20headless%20CMS) <br/> <sub>2022-06-24</sub>
+- [Advice for Learning to Code](https://www.annacunnane.co.uk/blog/Advice%20for%20learning%20how%20to%20code) <br/> <sub>2022-05-04</sub>
 - [What is the WordPress Gutenberg editor?](https://www.annacunnane.co.uk/blog/What%20is%20the%20WordPress%20Gutenberg%20editor) <br/> <sub>2022-04-09</sub>
 - [5 Things I've Learnt as an Apprentice Software Developer](https://www.annacunnane.co.uk/blog/5%20Things%20I've%20Learnt%20as%20an%20Apprentice%20Software%20Developer) <br/> <sub>2022-03-10</sub>
-- [How I made my blog](https://www.annacunnane.co.uk/blog/How%20I%20made%20my%20blog) <br/> <sub>2022-02-19</sub>
-- [Looking Back At Founders & Coders](https://www.annacunnane.co.uk/blog/Looking%20back%20at%20Founders%20and%20Coders) <br/> <sub>2022-01-01</sub>
-- [Four Things I've Learnt So Far At Founders & Corders](https://www.annacunnane.co.uk/blog/Four%20Things%20I've%20Learnt%20at%20FAC) <br/> <sub>2021-10-23</sub>
-- [Attending Co-Tech Conference at SPACE4 ](https://www.annacunnane.co.uk/blog/Attending%20Co-Tech%20conference%20at%20Space4) <br/> <sub>2021-10-09</sub>
-
-
-
 
