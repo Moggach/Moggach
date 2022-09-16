@@ -27,9 +27,11 @@ Projects:
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
 
 My latest blog posts ✍️
+- [Tips for Reading Code (for new developers)](https://www.annacunnane.co.uk/blog/Tips%20for%20reading%20code%20(for%20new%20developers)) <br/> <sub>2022-09-16</sub>
+- [My Experience as an Apprentice at Common Knowledge](https://www.annacunnane.co.uk/blog/My%20Experience%20as%20a%20Software%20Engineer%20Apprentice) <br/> <sub>2022-08-17</sub>
 - [How to Structure Your CSS](https://www.annacunnane.co.uk/blog/How%20to%20structure%20CSS) <br/> <sub>2022-07-13</sub>
 - [What is a headless CMS?](https://www.annacunnane.co.uk/blog/What%20is%20a%20headless%20CMS) <br/> <sub>2022-06-24</sub>
 - [Advice for Learning to Code](https://www.annacunnane.co.uk/blog/Advice%20for%20learning%20how%20to%20code) <br/> <sub>2022-05-04</sub>
-- [What is the WordPress Gutenberg editor?](https://www.annacunnane.co.uk/blog/What%20is%20the%20WordPress%20Gutenberg%20editor) <br/> <sub>2022-04-09</sub>
-- [5 Things I've Learnt as an Apprentice Software Developer](https://www.annacunnane.co.uk/blog/5%20Things%20I've%20Learnt%20as%20an%20Apprentice%20Software%20Developer) <br/> <sub>2022-03-10</sub>
+
+
 
