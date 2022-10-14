@@ -12,17 +12,13 @@ I was a member of the FAC22 cohort at software development bootcamp [Founders an
 💫
 
 
-Projects:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-⭐ [A class booking application for Solent Mind Recovery College (Part of Founders and Coders Tech for Better Project)](https://github.com/Moggach/solent-mind)
-![ ](SolentMind.gif)
-
-⭐ [Personal blog built in Gatsby with GraphQL](https://github.com/Moggach/my-blog-site)
-![ ](Blogsite.gif)
-
-⭐ [Site for comedy production company Encouraging Productions](https://github.com/Moggach/encouraging-productions)
-![ ](EncouragingProductions.gif)
-
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
 
