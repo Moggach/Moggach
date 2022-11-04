@@ -24,7 +24,7 @@ I was a member of the FAC22 cohort at software development bootcamp [Founders an
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
 
 My latest blog posts ✍️
-- [Month notes - October)](https://www.annacunnane.co.uk/blog/Month%20Notes%20-%20October) <br/> <sub>2022-10-31</sub>
+- [Month notes - October](https://www.annacunnane.co.uk/blog/Month%20Notes%20-%20October) <br/> <sub>2022-10-31</sub>
 - [Tips for Reading Code (for new developers)](https://www.annacunnane.co.uk/blog/Tips%20for%20reading%20code%20(for%20new%20developers)) <br/> <sub>2022-09-16</sub>
 - [My Experience as an Apprentice at Common Knowledge](https://www.annacunnane.co.uk/blog/My%20Experience%20as%20a%20Software%20Engineer%20Apprentice) <br/> <sub>2022-08-17</sub>
 - [How to Structure Your CSS](https://www.annacunnane.co.uk/blog/How%20to%20structure%20CSS) <br/> <sub>2022-07-13</sub>
