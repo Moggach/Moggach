@@ -11,11 +11,7 @@ I'm an apprentice software engineer with [Common Knowledge](https://commonknowle
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![My Skills](https://skillicons.dev/icons?i=react,php,python,git,docker,bootstrap,django,express,figma,supabase,gatsby,githubactions,html,nextjs,nodejs,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
 
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
 
