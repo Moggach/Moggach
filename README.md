@@ -6,12 +6,10 @@ Get in touch 🐦 [Twtter](https://twitter.com/AnnaThereseCu) |
 
 Welcome to my profile!
 
-I'm an apprentice software engineer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
+I'm an junior software engineer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
 
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
-
-[![My Skills](https://skillicons.dev/icons?i=react,php,python,git,docker,bootstrap,django,express,figma,supabase,gatsby,githubactions,html,nextjs,nodejs,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
 
 [![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
 
