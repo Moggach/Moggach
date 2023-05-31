@@ -11,7 +11,8 @@ I'm an junior software engineer with [Common Knowledge](https://commonknowledge.
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
 
-[![Anna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moggach&hide=stars)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moggach&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moggach&langs_count=5&theme=tokyonight)]()
 
 My latest blog posts ✍️
 - [Month notes - May](https://www.annacunnane.co.uk/blog/Month%20notes%20-%20May) <br/> <sub>2023-05-30</sub>
