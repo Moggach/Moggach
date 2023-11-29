@@ -1,6 +1,6 @@
 # Hi 👋 I'm Anna Cunnane
 
-Get in touch 🐦 [Twtter](https://twitter.com/AnnaThereseCu) |
+Get in touch 🐦 [X](https://twitter.com/AnnaThereseCu) |
 📧 <a href="mailto:anna_cunnane@proton.me"> Email</a> |
 🖊️ [Blog](https://www.annacunnane.co.uk/)
 
