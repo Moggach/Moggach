@@ -15,11 +15,12 @@ I was a member of the FAC22 cohort at software development bootcamp [Founders an
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moggach&langs_count=5&theme=tokyonight)]()
 
 My latest blog posts ✍️
+
+- [2023 - year in review](https://annacunnane.co.uk/2023-year-in-review/) <br/> <sub>2023-12-28</sub>
+- [What I've learnt about WordPress Development at Common Knowledge](https://annacunnane.co.uk/what-ive-learnt-about-wordpress-development/) <br/> <sub>2023-11-05</sub>
+- [Month notes - September](https://annacunnane.co.uk/month-notes-september/) <br/> <sub>2023-10-07</sub>
 - [An update on my new website](https://www.annacunnane.co.uk/blog/An%20update%20on%20my%20new%20website) <br/> <sub>2023-09-03</sub>
 - [Month notes - July](https://www.annacunnane.co.uk/blog/Month%20notes%20-%20July) <br/> <sub>2023-07-22</sub>
-- [Month notes - June](https://www.annacunnane.co.uk/blog/Month%20notes%20-%20June) <br/> <sub>2023-06-27</sub>
-- [Month notes - May](https://www.annacunnane.co.uk/blog/Month%20notes%20-%20May) <br/> <sub>2023-05-30</sub>
-- [Month notes - April](https://www.annacunnane.co.uk/blog/Month%20notes%20-%20April) <br/> <sub>2023-04-30</sub>
 
 
 
