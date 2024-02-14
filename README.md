@@ -11,8 +11,6 @@ I'm an junior software engineer with [Common Knowledge](https://commonknowledge.
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=moggach&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moggach&langs_count=5&theme=tokyonight)]()
 
 My latest blog posts ✍️
 
