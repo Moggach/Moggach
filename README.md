@@ -6,7 +6,7 @@ Get in touch 🐦 [X](https://twitter.com/AnnaThereseCu) |
 
 Welcome to my profile!
 
-I'm an junior software engineer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
+I'm a software engineer with [Common Knowledge](https://commonknowledge.coop/) 🕸️👩‍💻
 
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
