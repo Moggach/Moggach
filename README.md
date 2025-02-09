@@ -13,8 +13,7 @@ I was a member of the FAC22 cohort at software development bootcamp [Founders an
 
 
 My latest blog posts ✍️
-- [What I've learnt from mentoring at coding meetups](https://annacunnane.co.uk/what-ive-learnt-from-mentoring-at-coding-meetups/) <br/> <sub>2024-02-12</sub>
-
+- [2024 - year in review](https://annacunnane.co.uk/2024-year-in-review/) <br/> <sub>2024-02-12</sub>
 - [Using LLMs as a tool when learning to code](https://annacunnane.co.uk/using-llms-learning-to-code/) <br/> <sub>2024-10-18</sub>
 - [Notes from learning TypeScript](https://annacunnane.co.uk/notes-from-learning-typescript/) <br/> <sub>2024-08-25</sub>
 - [Building a tool to map Domestic Abuse Services across the UK](https://annacunnane.co.uk/mapping-da-services-uk/) <br/> <sub>2024-06-24</sub>
