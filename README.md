@@ -6,7 +6,7 @@ Get in touch 💼 [LinkedIn](https://www.linkedin.com/in/annacunnane/)|
 
 Welcome to my profile!
 
-I'm a software engineer with [Policy in Practice](https://commonknowledge.coop/](https://policyinpractice.co.uk/) 👩‍💻
+I'm a software engineer with [Policy in Practice](https://policyinpractice.co.uk/) 👩‍💻
 
 I was a member of the FAC22 cohort at software development bootcamp [Founders and Coders](https://www.foundersandcoders.com/) graduating in December 2021 
 💫
