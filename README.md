@@ -13,7 +13,7 @@ I was a member of the FAC22 cohort at software development bootcamp [Founders an
 
 
 My latest blog posts ✍️
-- [Shifting mindset as a mid-level engineer]([https://annacunnane.co.uk/migrating-domestic-abuse-services-mapped-database-to-postgresql/](https://annacunnane.co.uk/shifting-mindset-as-a-mid-level-engineer/) <br/> <sub>2026-04-03</sub>
+- [Shifting mindset as a mid-level engineer](https://annacunnane.co.uk/shifting-mindset-as-a-mid-level-engineer/) <br/> <sub>2026-04-03</sub>
 - [Migrating the Domestic Abuse Services Mapped database to PostgreSQL](https://annacunnane.co.uk/migrating-domestic-abuse-services-mapped-database-to-postgresql/) <br/> <sub>2026-01-31</sub>
 - [Attending the Local Government Homelessness/Rough Sleeping Hackathon in Birmingham](https://annacunnane.co.uk/local-gov-homelessness-rough-sleeping/) <br/> <sub>2025-12-09</sub>
 - [Domestic Abuse Services Mapped - recent updates](https://annacunnane.co.uk/domestic-abuse-services-mapped-updates/) <br/> <sub>2025-10-18</sub>
